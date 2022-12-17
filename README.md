@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web Development, Core programming, Database Management, and Application Development
 - 🌱 I’m currently learning Java, Python, and Javascript (REACT JS)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: 
-Linkedin - www.linkedin.com/in/aditya-hegde-09650a221 |
-Instagram - https://www.instagram.com/__aditya_hegde__/ |
+- 📫 How to reach me: <br />
+Linkedin - www.linkedin.com/in/aditya-hegde-09650a221 <br />
+Instagram - https://www.instagram.com/__aditya_hegde__/ <br />
 Discord - Aditya__Hegde#5535 
 
 <!---
