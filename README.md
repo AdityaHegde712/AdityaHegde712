@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdityaHegde712
-- 👀 I’m interested in Web Development, Core programming, Database Management, and Application Development
+- 👀 I’m interested in Web Development, Programming for problem solving, Database Management, and Application Development
 - 🌱 I’m currently learning Java, Python, and Javascript (REACT JS)
 - 📫 How to reach me: <br />
 Linkedin - www.linkedin.com/in/aditya-hegde-09650a221 <br />
