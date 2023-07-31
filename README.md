@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdityaHegde712
-- 👀 I’m interested in Web Development, Programming for problem solving, Database Management, and Application Development
-- 🌱 Currently learning Javascript, and working on ML. 
+- 👀 I’m interested in Web Development, Database Management, GUI programming, and Machine Learning.
+- 🌱 Currently learning Machine Learning. 
 - 📫 How to reach me: <br />
 Linkedin - www.linkedin.com/in/aditya-hegde-09650a221 <br />
 Instagram - https://www.instagram.com/__aditya_hegde__/ <br />
