@@ -4,7 +4,7 @@ I'm a Computer Science Engineering student pursuing my Bachelor's of Technology 
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, Java, JavaScript
+- **Languages:** Python, Java, C, C++, Basic Arduino
 - **Web Development:** HTML, CSS, Flask, basic NodeJS
 - **Databases:** MongoDB, MySQL
 - **Machine Learning & Data Science:** TensorFlow, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, PyTorch, and others.
