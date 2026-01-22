@@ -1,6 +1,6 @@
 # Hello, I'm Aditya Hegde 👋
 
-I'm a Computer Science Engineering student pursuing my Bachelor's of Technology degree. My passion lies in Artificial Intelligence and Machine Learning, and I'm enthusiastic about full-stack web development, software development, data science, and AI.
+I'm a Master of Science in Artificial Intelligence student at San Jose State University. My passion lies in Artificial Intelligence and Machine Learning, and I'm enthusiastic about full-stack web development, software development, data science, and AI.
 
 ## 🔧 Technologies & Tools
 
