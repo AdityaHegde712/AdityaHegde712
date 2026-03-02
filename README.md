@@ -61,16 +61,15 @@
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<p>
   <img src="./metrics/metrics.svg" alt="Metrics overview" />
 </p>
 
-<p align="center">
+<p>
   <img src="./metrics/languages.svg" alt="Top languages" />
-  <img src="./metrics/achievements.svg" alt="Achievements" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=AdityaHegde712&theme=tokyonight&hide_border=true"/>
 </p>
 
