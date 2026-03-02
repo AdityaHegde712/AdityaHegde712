@@ -67,7 +67,7 @@
 
 <p align="center">
   <img src="./metrics/languages.svg" alt="Top languages" />
-  <img src="./metrics/habits.svg" alt="Habits" />
+  <img src="./metrics/achievements.svg" alt="Achievements" />
 </p>
 
 <p align="center">
