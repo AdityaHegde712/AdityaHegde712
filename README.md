@@ -61,10 +61,14 @@
 
 # 📊 GitHub Analytics
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaHegde712&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaHegde712&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p> -->
+<p align="center">
+  <img src="./metrics/metrics.svg" alt="Metrics overview" />
+</p>
+
+<p align="center">
+  <img src="./metrics/languages.svg" alt="Top languages" />
+  <img src="./metrics/habits.svg" alt="Habits" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AdityaHegde712&theme=tokyonight&hide_border=true"/>
