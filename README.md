@@ -13,17 +13,6 @@
 
 ---
 
-## 🚀 About Me
-
-* 🧠 I build **production-scale ML systems**, not just notebooks
-* 🛰️ Specialized in **Computer Vision + Geospatial AI**
-* ⚙️ Focused on **GPU inference pipelines, backend ML systems, and performance engineering**
-* 📉 Reduced inference latency from **7 min → <1 min** in production
-* 📈 Improved model performance by **+40% mAP** through systematic iteration
-* 🏗️ Designed systems processing **15B+ pixels**
-
----
-
 # 🧰 Tech Stack
 
 ### 🧠 Machine Learning
