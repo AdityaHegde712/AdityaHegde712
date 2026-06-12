@@ -1,128 +1,49 @@
-# 👋 Hi, I'm Aditya Hegde
+# Aditya Hegde
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaHegde712&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/AdityaHegde712?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/AdityaHegde712?affiliations=OWNER%2CCOLLABORATOR&style=social" />
-</p>
-
-<p align="center">
-  <b>ML Engineer | Computer Vision | ML Infrastructure | Applied AI</b><br>
-  MS Artificial Intelligence @ San Jose State University (4.0 GPA)
-</p>
+MS Artificial Intelligence @ SJSU · Computer Vision · Agentic Systems · Edge AI
 
 ---
 
-# 🧰 Tech Stack
+## Work
 
-### 🧠 Machine Learning
+### [SpaceDebrisResearch](https://github.com/AdityaHegde712/SpaceDebrisResearch)
+Probabilistic orbital risk framework over 13.59M VCM snapshots across 19,300 tracked objects. Transitions debris tracking from deterministic Keplerian propagation to uncertainty-aware 3D probability volumes. RK4 J2 propagator + TCN sequence model predicts residual trajectory errors rather than absolute coordinates, feeding a Dynamic Probabilistic Occupancy Map for launch window optimization. Pipelines in Polars; 41 engineered features across AMR, decay rates, Harris-Priester atmospheric density, and solar flux indices. Built and diagnosed three baselines before the physics-ML hybrid pivot — including a tautological RF classifier and a TCN with GAP signal dilution.
 
-![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
-
-### ⚙️ Backend & Systems
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![GPU Inference](https://img.shields.io/badge/GPU-Inference-green?style=for-the-badge)
-
-### ☁️ Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge\&logo=googlecloud\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+`PyTorch` `Polars` `RK4 numerical integration` `TCNs` `irregular time series`
 
 ---
 
-# 📊 GitHub Analytics
+### [SimaAI_Industry_Safety](https://github.com/AdityaHegde712/SimaAI_Industry_Safety)
+Real-time PPE compliance and zone-based safety enforcement on SiMa.ai Modalix edge hardware (50 TOPS, 8× Cortex-A65). 10-class YOLOv8 detector with inverse-frequency class weighting to handle severe imbalance (person:vehicle ≈ 1:7.57). ByteTrack multi-object tracker enables per-track dwell-time measurement inside safety zones defined as camera-space polygons. ONNX export with static 640×640 input shape for MLSoC deployment. 18-run hyperparameter search (model size × LR × optimizer) tracked in W&B; best model: yolov8m, mAP@0.5 = 0.705.
 
-<p>
-  <img src="./metrics/metrics.svg" alt="Metrics overview" />
-</p>
-
-<p>
-  <img src="./metrics/languages.svg" alt="Top languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=AdityaHegde712&theme=tokyonight&hide_border=true"/>
-</p>
-
-# 🏗️ Featured Engineering Work
-
-### 🛰️ Geospatial ML Inference Pipeline
-
-* Event-driven ingestion for high-resolution satellite imagery
-* Hybrid C# + Python preprocessing
-* Parallel GPU worker architecture
-* Structured logging + runtime memory guards
-* 15B+ pixels stress tested
-* <1 min inference per 10,000 km²
-
-### 🌊 Marine Debris Detector
-
-* 1000+ satellite images processed
-* > 90% validation accuracy
-* +15% precision over baseline
-* Dockerized deployment
-* GIS-compatible vector output
-
-### 🧠 Denoising Autoencoder
-
-* Custom lightweight CNN
-* 35+ PSNR
-* 0.95+ SSIM
-* Sub-30ms inference
-* Led 12-engineer team
+`YOLOv8` `ByteTrack` `ONNX` `edge inference` `RTSP` `W&B`
 
 ---
 
-## 📚 Publications
+### [Autoencoders-for-Compression](https://github.com/AdityaHegde712/Autoencoders-for-Compression)
+Asymmetric autoencoder for learned video compression targeting aerial surveillance. Shallow encoder (depthwise separable convs) runs on-device; heavy decoder (residual conv blocks) reconstructs server-side. Factorized entropy bottleneck with learned Laplacian priors for BPP estimation. GOP=10 with I-frame direct reconstruction and P-frame residual coding; temporal coherence loss stabilizes latent space across frames. Rate-distortion training: SSIM + L1 weighted with lambda-scheduled BPP. Trained on VIRAT aerial video.
 
-- **Machine Learning-Based Space Risk Management** (IEEE ICEPES 2024)  
-  https://ieeexplore.ieee.org/document/10653497
-
-- **Deep Learning Based Dementia Detection on MRI Data** (Springer ICETSS 2024)  
-  https://link.springer.com/chapter/10.1007/978-3-032-11488-4_15
+`PyTorch` `entropy bottleneck` `rate-distortion optimization` `SSIM` `depthwise separable convs`
 
 ---
 
-# 🎯 Current Focus
+## Capstone
 
-* Scaling ML inference systems
-* Performance-aware model architecture
-* Distributed training optimization
-* ML backend system design
-* Applied Computer Vision in production environments
+**Agentic Perception Co-Pilot for Autonomous Vehicles** — LangGraph ReAct agent reasoning over uncertain YOLOv8/DETR detections on nuScenes data. Advising: Prof. Kaikai Liu, SJSU CMPE.
 
 ---
 
-# 🤝 Let's Connect
+## Publications
 
-<p align="center">
-  <a href="mailto:aditya.hegde@sjsu.edu">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/aditya-hegde712/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://adityahegde712.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge"/>
-  </a>
-</p>
+- *Machine Learning-Based Space Risk Management* — IEEE ICEPES 2024 · [ieeexplore.ieee.org/document/10653497](https://ieeexplore.ieee.org/document/10653497)
+- *Deep Learning Based Dementia Detection on MRI Data* — Springer ICETSS 2024 · [link.springer.com/chapter/10.1007/978-3-032-11488-4_15](https://link.springer.com/chapter/10.1007/978-3-032-11488-4_15)
 
+---
 
+## Stack
+
+Python · PyTorch · FastAPI · LangGraph · Docker · Postgres · Redis · YOLOv8 · ONNX · Polars · Airflow · dbt · DuckDB
+
+---
+
+[adityahegde712.github.io](https://adityahegde712.github.io) · [linkedin](https://linkedin.com/in/aditya-hegde712/) · [aditya.hegde@sjsu.edu](mailto:aditya.hegde@sjsu.edu)
