@@ -13,7 +13,7 @@ Probabilistic orbital risk framework over 13.59M VCM snapshots across 19,300 tra
 
 ---
 
-### [SimaAI_Industry_Safety](https://github.com/AdityaHegde712/SimaAI_Industry_Safety)
+### [SimaAI_Industry_Safety](https://github.com/AdityaHegde712/Industrial-Safety-Detection)
 Real-time PPE compliance and zone-based safety enforcement on SiMa.ai Modalix edge hardware (50 TOPS, 8× Cortex-A65). 10-class YOLOv8 detector with inverse-frequency class weighting to handle severe imbalance (person:vehicle ≈ 1:7.57). ByteTrack multi-object tracker enables per-track dwell-time measurement inside safety zones defined as camera-space polygons. ONNX export with static 640×640 input shape for MLSoC deployment. 18-run hyperparameter search (model size × LR × optimizer) tracked in W&B; best model: yolov8m, mAP@0.5 = 0.705.
 
 `YOLOv8` `ByteTrack` `ONNX` `edge inference` `RTSP` `W&B`
