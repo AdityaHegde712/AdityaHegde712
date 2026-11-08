@@ -14,4 +14,4 @@ I enjoy working where research meets engineering - turning ideas into systems th
 
 Currently pursuing an MS in Artificial Intelligence at San Jose State University.
 
-[Portfolio](https://adityahegde712.github.io) · [LinkedIn](https://www.linkedin.com/in/aditya-hegde-09650a221/)
+[Portfolio](https://adityahegde712.github.io) · [LinkedIn](https://www.linkedin.com/in/aditya-hegde712/)
